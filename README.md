@@ -12,7 +12,7 @@ A simple and responsive Task Management App built with HTML, CSS, and JavaScript
 
 ## Demo
 
-You can view the live demo of the app (https://sirajshaikhdev.github.io/Task_Management_App/).
+You can view the live demo of the app ([https://sirajshaikhdev.github.io/Task_Management_App/](https://sirajshaikh-dev.github.io/Task_Management_App/ )).
 
 ## Getting Started
 
